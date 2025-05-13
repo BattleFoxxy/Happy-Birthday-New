@@ -100,7 +100,7 @@ section {
     background: #ffffff;
     border-radius: 10px;
     position: absolute;
-    top: 50px;
+    top: 386px;
     left: 50%;
     margin-left: 0px;
     margin-top: 0px;
@@ -119,7 +119,7 @@ section {
     height: 2.22222222px;
   }
   .cake:after {
-    top: 10%;
+    top: 25%;
     left: 0;
   }
   .cake:before {
@@ -257,7 +257,7 @@ section {
   }
   
   .card .details {
-    position: absolute;
+    position: flex;
     top: 0;
     left: 0;
     box-sizing: border-box;
