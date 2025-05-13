@@ -25,7 +25,7 @@ section {
 
 }
 .Home-Title {
-    position: flex;
+    position: absolute;
     top: 0;
     left: 0;
     color: var(--text-color);
