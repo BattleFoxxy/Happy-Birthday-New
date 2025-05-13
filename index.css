@@ -86,7 +86,7 @@ section {
     top: 0;
     left: 0;
 
-    display: flex;
+    display: absolute;
     flex-wrap: wrap;
     justify-content: center;
     align-content: center;
