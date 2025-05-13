@@ -257,7 +257,7 @@ section {
   }
   
   .card .details {
-    position: flex;
+    position: absolute;
     top: 0;
     left: 0;
     box-sizing: border-box;
